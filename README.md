@@ -55,11 +55,5 @@ This project showcases an exploratory data analysis (EDA) of Netflix's global co
 
 ---
 
-## 🚀 Future Improvements (Optional)
 
-- Interactive Dashboard using Streamlit or Dash  
-- Integration with Netflix API (if available) for real-time analysis  
-- Predictive modeling for content trends based on historical data  
-
----
 
